@@ -14,3 +14,7 @@
 - [13](pyLabs/2.py)
 - [14](pyLabs/2_h.py)
 - [15](pyLabs/2,2,2인공신경망.py)
+- [16](pyLabs/tensorflow/tensorflow1.py)
+- [17](pyLabs/tensorflow/tensorflow2.py)
+- [18](pyLabs/tensorflow/tensorflow3.py)
+
